@@ -4,7 +4,7 @@ import JS_IMAGE from '../assets/javascript.png';
 console.log('Hello world!');
 
 const headingHTML = document.createElement('h1');
-headingHTML.textContent = 'I love JavaScript';
+headingHTML.textContent = 'I love programming language "JavaScript"';
 document.body.append(headingHTML);
 
 const jsImageHTML = document.createElement('img');
